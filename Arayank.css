@@ -1,0 +1,218 @@
+.container-fluid {
+    background-color: rgb(240, 223, 146);
+}
+
+.container-fluid img {
+    margin: 10px 70px;
+}
+
+.nav {
+    margin-right: -0px;
+    margin-left: 70px;
+}
+
+.nav-link {
+    color: black;
+}
+
+.form-control {
+    border-color: black;
+}
+
+.parent img {
+    margin-top: 170px;
+    margin-left: 70px;
+}
+
+.parent {
+    display: flex;
+
+}
+
+.parent1 {
+    margin-top: 200px;
+    margin-left: 100px;
+    text-align: left;
+}
+
+.green {
+    color: rgb(149, 183, 108);
+}
+
+.orange {
+    color: rgb(212, 147, 72);
+}
+
+/* fourth */
+.card-group {
+    margin-top: 100px;
+
+}
+
+.card {
+    border: none;
+}
+
+.card-body h5 {
+    color: rgb(212, 147, 72);
+}
+
+.card-group .card img {
+    height: 170px;
+    width: 220px;
+    margin-left: 140px;
+}
+
+/* fifth */
+.container h2 {
+    margin-top: 100px;
+}
+
+.container h1 {
+    color: rgb(212, 147, 72);
+    margin-bottom: 20px;
+}
+
+.Lorem {
+    margin-right: 100px;
+    width: 80%;
+}
+
+.ipsum {
+    width: 80%;
+}
+
+/* sixth */
+.sixth .card img {
+    height: 500px;
+    width: 550px;
+    border-radius: 80px;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+.badhon .card-img-overlay {
+    border: 2px solid rgb(218, 177, 87);
+    border-radius: 50px;
+    height: 250px;
+    width: 600px;
+    margin-left: 700px;
+    margin-top: 170px;
+    background: white;
+}
+
+/* sixth */
+.meet {
+    width: 65%;
+    margin-left: 280px;
+}
+
+.meet .display-1 {
+    color: rgb(218, 177, 87);
+    margin-top: 130px;
+    margin-bottom: 50px;
+}
+
+.meet .card img {
+    margin-left: 15px;
+    height: 300px;
+    width: 300px;
+    border-radius: 70px;
+    border: 2px solid rgb(218, 177, 87);
+}
+
+.meet .card-img-overlay svg {
+    height: 25px;
+    width: 30px;
+    margin: 7px;
+    color: rgb(236, 198, 173);
+}
+
+.meet .card-img-overlay {
+    width: 10px;
+    margin-top: 70px;
+    margin-left: -6px;
+}
+
+/* eight */
+.eight h1 {
+    margin-top: 100px;
+    margin-left: 120px;
+}
+
+.eight .display-2 {
+    color: rgb(212, 147, 72);
+}
+
+.eight .card-group .card {
+    /* border: 2px solid; */
+    border-radius: 50px;
+    height: 880px;
+    margin: 18px;
+    background-color: rgb(240, 223, 146);
+}
+
+.eight .card-group {
+    width: 90%;
+
+    margin-left: 70px;
+}
+
+.eight .card-body a {
+    text-decoration: none;
+    color: black;
+
+}
+
+.eight .card-body .link {
+    /* border: 2px solid; */
+    height: 50px;
+    width: 420px;
+    margin-top: -15px;
+    margin-left: -16px;
+    background-color: rgba(240, 208, 50, 0.6);
+
+}
+
+.eight .card-img-overlay {
+    margin-top: 630px;
+
+
+
+}
+
+.eight .card-body h5 {
+
+    color: black;
+}
+
+.eight .card-group .card img {
+    height: 680px;
+    width: 420px;
+    margin-left: 0;
+    border-radius: 50px;
+
+}
+
+.eight .nine h1 {
+    text-align: right;
+    margin-right: 100px;
+    margin-top: 120px;
+}
+
+.eight .ten h1 {
+    margin-top: 120px;
+}
+
+.eleven {
+
+    margin-left: 500px;
+    margin-top: 100px;
+
+}
+
+.twelve .head {
+    margin-left: 100px;
+    margin-top: 150px;
+    margin-bottom: -20px;
+}

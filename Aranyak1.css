@@ -1,0 +1,381 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/* one */
+.one .container-fluid {
+    background-color: rgb(240, 223, 146);
+}
+
+.one .container-fluid img {
+    /* height: 60px; */
+    padding: 10px;
+}
+
+.one .form-control {
+    border: 1px solid;
+    border-radius: 60px;
+}
+
+/* two */
+.two {
+    margin-top: 190px;
+
+}
+
+.two img {
+    margin-left: 70px;
+    width: 50%;
+}
+
+.two .aranyak {
+    color: rgb(119, 171, 23);
+}
+
+.two button {
+    width: 90%;
+    margin-left: 15px;
+    color: rgb(171, 231, 210);
+
+}
+
+/* three */
+.three img {
+    height: 180px;
+    width: 180px;
+    margin-top: -1050px;
+    margin-left: 60px;
+}
+
+.three .parent1 {
+    margin-top: 250px;
+}
+
+.three .parent1 .have {
+    margin-left: 20px;
+}
+
+.three .parent1 .however {
+    margin-left: 150x;
+    text-align: center;
+    color: rgb(212, 147, 72);
+
+}
+
+.three p {
+    text-align: center;
+}
+
+.three .parent1 .btn {
+    width: 90%;
+    margin-left: 15px;
+}
+
+.four .card img {
+    width: 150px;
+    height: 150px;
+    margin-left: 88px;
+
+}
+
+.four {
+    margin-top: 80px;
+}
+
+.four .card-body h5 {
+    color: rgb(212, 147, 72);
+}
+
+.four .card {
+    border: none;
+}
+
+/* five */
+.five {
+    text-align: center;
+}
+
+.five h1 {
+    color: rgb(212, 147, 72);
+}
+
+.six .card img {
+    height: 280px;
+    width: 300px;
+    margin: 13px;
+    border-radius: 50px;
+}
+
+.badhon .card-img-overlay {
+    border: 2px solid rgb(218, 177, 87);
+    border-radius: 40px;
+    height: 250px;
+    width: 300px;
+    /* margin-left: 700px; */
+    /* margin-top: 170px; */
+    background: white;
+}
+
+.six .badhon {
+    text-align: center;
+}
+
+.six .badhon h2 {
+    margin-top: -11px;
+}
+
+.six .badhon p {
+    margin-top: -6px;
+}
+
+.six .badhon .card-img-overlay {
+    height: 180px;
+    margin-left: 13px;
+    margin-top: 220px;
+
+}
+
+/* seven */
+
+
+.meet .display-1 {
+    color: rgb(218, 177, 87);
+    margin-top: 130px;
+    margin-bottom: 50px;
+}
+
+.meet .card img {
+    margin-left: 40px;
+    height: 230px;
+    width: 230px;
+    border-radius: 70px;
+    border: 2px solid rgb(218, 177, 87);
+}
+
+.meet .card-img-overlay svg {
+    height: 22px;
+    width: 27px;
+    margin: 6px;
+    color: rgb(236, 198, 173);
+}
+
+.meet .card-img-overlay {
+    width: 10px;
+    margin-top: 52px;
+    margin-left: 19px;
+}
+
+/* eight */
+.eight h1 {
+    text-align: center;
+}
+
+.eight .display-2 {
+    color: rgb(212, 147, 72);
+}
+
+.eight .card-group .card {
+    /* border: 2px solid; */
+    border-radius: 50px;
+    height: 680px;
+    margin: 18px;
+    background-color: rgb(240, 223, 146);
+}
+
+.eight .card-group {
+    /* width: 90%; */
+
+    /* margin-left: 70px; */
+}
+
+
+.eight .card-body a {
+    text-decoration: none;
+    color: black;
+
+}
+
+.eight .card-body .link {
+    /* border: 2px solid; */
+    height: 50px;
+    width: 420px;
+    margin-top: -15px;
+    margin-left: -16px;
+    background-color: rgba(240, 208, 50, 0.6);
+
+}
+
+.eight .card-img-overlay {
+    margin-top: 630px;
+
+
+
+}
+
+.eight .card-body h5 {
+
+    color: black;
+}
+
+.eight .card-group .card img {
+    height: 580px;
+    width: 290px;
+    margin-left: 0;
+    border-radius: 50px;
+
+}
+
+
+
+@media only screen and (min-width:1024px) {
+
+    .one img {
+        margin-left: 30px;
+        height: 80px;
+        width: 230px;
+
+    }
+
+    .one form {
+        margin-left: 100px;
+        height: 50px;
+        width: 330px;
+        margin-right: 70px;
+    }
+
+    .two .parent1 {
+        width: 50%;
+        margin-left: 100px;
+
+    }
+
+    /* two */
+    .two button {
+        width: 60%;
+    }
+
+    .two .parent {
+        display: flex;
+    }
+
+    .two .parent img {
+        margin-top: 50px;
+        margin-left: 30px;
+        height: 500px;
+        width: 500px;
+    }
+
+    .two .parent1 {
+        width: 50%;
+        margin: 20px;
+        text-align: left;
+    }
+
+    /* three */
+    .three .parent1 .however {
+        text-align: left;
+        margin-left: 30px;
+    }
+
+    .three .parent1 .para {
+        width: 45%;
+        margin-left: 30px;
+        text-align: left;
+    }
+
+    .three .parent1 .btn {
+        width: 30%;
+        margin-left: 80px;
+    }
+
+    .three .parent img {
+        margin-left: 600px;
+        margin-bottom: -550px;
+
+        height: 500px;
+        width: 500px;
+    }
+
+    /* four */
+    .four .card img {
+
+        margin-left: 130px;
+
+    }
+
+    .five {
+        text-align: left;
+    }
+
+    .five .para {
+        display: flex;
+        text-align: left;
+    }
+
+    .six .card img {
+        height: 380px;
+        width: 400px;
+        margin-left: 250px;
+        margin-top: 50px;
+    }
+
+    .six .badhon .card-img-overlay {
+        height: 200px;
+        width: 430px;
+        font-size: x-large;
+        padding: 30px;
+        margin-left: 570px;
+        margin-top: 140px;
+    }
+
+    /* seven */
+    .seven .meet {
+        width: 65%;
+        margin-left: 230px;
+        margin-right: 20px;
+
+    }
+
+    .seven .meet .display-1 {
+        color: rgb(218, 177, 87);
+        margin-top: 130px;
+        margin-bottom: 50px;
+    }
+
+    .seven .meet .card img {
+        margin-left: 2px;
+        height: 240px;
+        width: 240px;
+        border-radius: 70px;
+        border: 2px solid rgb(218, 177, 87);
+    }
+
+    .seven .meet .card-img-overlay svg {
+        height: 25px;
+        width: 30px;
+        margin: 7px;
+        color: rgb(236, 198, 173);
+    }
+
+    .seven .meet .card-img-overlay {
+        width: 10px;
+        margin-top: 45px;
+        margin-left: -19px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
